@@ -1,0 +1,14 @@
+.box {
+    background-color: #c74848;
+    width: 228px;
+    height: 250px;
+    border-radius: 5px;
+    margin-top: 31px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    /* margin-top: 50px; */
+    overflow: hidden;
+}

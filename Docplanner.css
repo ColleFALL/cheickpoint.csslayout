@@ -1,0 +1,400 @@
+.nav{
+    display: flex;
+    
+}
+.nav img{
+    width: 300px;
+    margin-left: 60px;
+    height: 50px;
+}
+.list{
+    list-style: none;
+    margin-left: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grid;
+}
+.navbar{
+    display: flex;
+    justify-content: right;
+    font-size: 20px;
+}
+.nav ul {
+    margin-left: 400px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: darkgrey;
+}
+.navbar li a:hover{
+    color: aquamarine;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-top: 100px;
+}
+h1{
+    color: lightseagreen;
+}
+.p1{
+    color: grey;
+    font-size: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex1{
+    background-color: lightseagreen;
+    width: 300px;
+    height: 400px;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.image1{
+    margin-left: 30px;
+   margin-top: 30px;
+}
+.titre1{
+    color:white;
+    font-size: 45px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.para1{
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pays1{
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    background-color: transparent;
+    color: aliceblue;
+}
+.pays1:hover{
+    color: blue;
+    text-decoration: underline;
+    background-color:lightseagreen;
+
+}
+.flex2{
+    background-color: dodgerblue;
+    width: 300px;
+    height: 400px;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.image2{
+    margin-left: 30px;
+    margin-top: 30px;
+   }
+.titre2{
+    color:white;
+    font-size: 45px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+ .para2{
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pays2{
+    border: none;
+   text-decoration: underline;
+   font-size: 20px;
+   background: transparent;
+   color: aliceblue;
+   margin-left: 30px;
+}
+.pays2:hover{
+    color: blue;
+    text-decoration: underline;
+    background-color: #3d83df;
+}
+.flex3{
+    background-color: black;
+    width: 300px;
+    height: 400px;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.image3{
+    margin-left: 30px;
+    margin-top: 30px;
+   }
+.titre3{
+    color:white;
+    font-size: 45px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+ .para3{
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pays3{
+    border: none;
+   text-decoration: underline;
+   font-size: 20px;
+   background: transparent;
+   color: azure;
+}
+.pays3:hover{
+    color: blue;
+    text-decoration: underline;
+    background-color:black;
+}
+
+.pays4{
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    background: transparent;
+    color: azure;
+}
+.pays4:hover{
+    color: blue;
+    text-decoration: underline;
+    background-color:black;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.stats-box {
+    height: 190px;
+    background-color: white;
+    border-radius: 7%;
+    width: 45%;
+    margin-right: 5%;
+}
+.para4{
+    color: lightseagreen;
+    font-size: 30px;
+    margin-left: 200px;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+   margin-left: 700px;
+
+}
+.container4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+   margin-left: 900px;
+   justify-content: space-between;
+}
+
+.flex4{
+    background-color:powderblue;
+    width: 1000px;
+    height: 700px;
+    margin-right: 50px;
+    margin-bottom: 100%;
+}
+.para5{
+    color: lightseagreen;
+    font-size: 45px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 60px;
+    margin-top: 300px;
+}
+.para6{
+    color: gray;
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 60px;
+    margin-bottom: 50px;
+}
+.flexbox{
+        display: flex;
+        flex-direction: row-reverse;
+        /* margin-top: 50px; */
+        
+    
+}
+
+.im-logo{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.titre{
+    color: lightseagreen;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 30px;
+} 
+.flexbox1{
+    background-color:rgb(141, 15, 15);
+    width: 270px;
+    height: 300px;
+    margin-bottom: 1000px;
+}
+.parag {
+    color: lightseagreen;
+    margin-left: 40px;
+}
+
+.flexbox2{
+    background-color:rgb(56, 48, 105);
+    width: 270px;
+    height: 300px;
+}
+.flexbox3{
+    background-color:rgb(15, 141, 72);
+    width: 270px;
+    height: 300px;
+}
+.flexbox4{
+    background-color:rgb(34, 15, 141);
+    width: 270px;
+    height: 300px;
+}
+.container2{
+    display: flex;
+    flex-direction:column-reverse;
+   justify-content:space-between;
+   flex-wrap:wrap-reverse;
+   
+}
+.flex5{
+    background-color: brown;
+    height: 100px;
+    width: 200px; 
+}
+.flex6{
+    background-color: black;
+    height: 100px;
+    width:200px;
+    
+    
+}
+.flex7{
+    background-color: red;
+    width: 200px;
+    height: 100px;  
+}
+.flex8{
+    background-color:blue ;
+    width: 200px;
+    height: 100px; 
+}
+.para7{
+    color: lightseagreen;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.para8{
+    text-align: center;
+    margin-top: 40px;
+    color: grey;
+    font-size: 20px;
+    
+}
+.btn--small{
+    background-color:dodgerblue;
+    font-size: 15px;
+    width: 90px;
+    height: 40px;
+    margin-top: 3px;
+    margin-right: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    color: aliceblue;
+
+}
+#countries {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    height: 1000px;
+    padding: 10px;
+    display: block;
+}
+.country {
+    display: inline-block;
+    flex-direction: column;
+    flex-wrap:wrap;
+    padding-right: 10px;
+    justify-content: space-around;
+    align-items: center;
+
+    
+}
+.country img {
+    width: 300px;
+    
+}
+.bottom {
+    display: flex;
+    justify-content: space-between;
+}
+.para9{
+    font-size: 30px;
+    text-align: center;
+    color: grey;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+.btn1{
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+    height: 50px;
+    margin-left: 500px;
+    margin-top: 30px;
+    color: aliceblue;
+}
+.para10{
+    color: grey;
+    text-align: center;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.para11{
+    color: gray;
+    text-align: center;}
+.pays5{
+    color:dodgerblue;
+}
+.pays5:hover{
+    text-decoration-line: underline;
+
+}
+.para12:hover{
+    color: black;
+    text-decoration: underline;
+}
+footer a {
+    color: #3d83df;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+.pays-select{
+    color: #3d83df;
+}
